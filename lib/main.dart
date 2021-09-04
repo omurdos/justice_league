@@ -12,6 +12,7 @@ class JusticeLeagueApp extends StatelessWidget {
       title: 'Justice League',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        fontFamily: "JUSTICE LEAGUE"
       ),
       home: CharactersPage(),
     );
